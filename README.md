@@ -1,5 +1,5 @@
 # void-wiki-cli
-This is a fork of [@deadhead420]("https://github.com/deadhead420/arch-wiki")'s neat arch-wiki script altered for use with the [Void Linux Wiki](https://wiki.voidlinux.org/Main_Page ).
+This is a fork of [@deadhead420]("https://github.com/deadhead420/arch-wiki") neat arch-wiki script altered for use with the [Void Linux Wiki](https://wiki.voidlinux.org/Main_Page ).
 ## Installation
 Simply clone this repo and allow running of the script:
 ```
