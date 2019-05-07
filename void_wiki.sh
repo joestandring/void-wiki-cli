@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # A cli tool to search and view the Void Linux wiki
-# Joe Standring <jstandring@pm.me>
+# Joe Standring <git@joestandring.com>
 # Forked from Dylan Schacht <deadhead3492@gmail.com>
 # GNU GPLv3
 
